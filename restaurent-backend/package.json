@@ -1,0 +1,14 @@
+{
+  "name": "restaurent-backend",
+  "version": "1.0.0",
+  "description": "json server for restaurent app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "safvan",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
